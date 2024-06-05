@@ -2,7 +2,6 @@
 
 
 - Estudante de Sistemas de Informação.
-- Pronomes: Ele / Dele.
 -->
 
 <div align="center">
