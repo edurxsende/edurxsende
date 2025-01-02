@@ -1,7 +1,7 @@
 ### Hey, fellas!
 
 
-- Estudante de Sistemas de Informação.
+- Desenvolvedor FullStack.
 -->
 
 <div align="center">
